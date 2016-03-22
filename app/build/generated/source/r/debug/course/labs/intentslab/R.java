@@ -31,9 +31,10 @@ public final class R {
         public static final int explicit_activation_button_string=0x7f050003;
         public static final int explicit_message=0x7f050004;
         public static final int implicit_activation_button_string=0x7f050005;
-        public static final int no_text_entered=0x7f050006;
-        public static final int title_explicit=0x7f050007;
-        public static final int title_main=0x7f050008;
+        public static final int intent_choose_title=0x7f050006;
+        public static final int no_text_entered=0x7f050007;
+        public static final int title_explicit=0x7f050008;
+        public static final int title_main=0x7f050009;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 
