@@ -78,8 +78,7 @@ public class ActivityLoaderActivity extends Activity {
         
 		Log.i(TAG, "Entered startImplicitActivation()");
         
-		// TODO - Create a base intent for viewing a URL
-		// (HINT:  second parameter uses Uri.parse())
+		// TODO - Create a base intent for viewing a URL (HINT:  second parameter uses Uri.parse())
 		Uri webpage = Uri.parse("http://www.android.com");
         Intent baseIntent = new Intent(Intent.ACTION_VIEW, webpage);
 		
